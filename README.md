@@ -1,6 +1,4 @@
-# Midterm_NutritionTrackerClassification-
-
-# Food Item Classification
+# Food Classification
 
 **Course:** ITAI 1378 — Computer Vision  
 **Team Member:** Jemima  
